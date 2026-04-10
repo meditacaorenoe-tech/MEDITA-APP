@@ -11,6 +11,7 @@ import ContentSection from './components/ContentSection';
 import TechniqueSection from './components/TechniqueSection';
 import FinalSection from './components/FinalSection';
 import Footer from './components/Footer';
+import WhatsAppButton from './components/WhatsAppButton';
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
       <TechniqueSection />
       <FinalSection />
       <Footer />
+      <WhatsAppButton />
     </main>
   );
 }
