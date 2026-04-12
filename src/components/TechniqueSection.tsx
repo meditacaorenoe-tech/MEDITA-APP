@@ -13,7 +13,7 @@ export default function TechniqueSection() {
           Técnica ACI - <span className="text-[#FF9F43]">Ativação Corporal Inteligente</span>
         </h2>
         <p className="text-[#4A5568] font-light leading-relaxed max-w-2xl mx-auto">
-          A Técnica ACI é um processo guiado por audio que conduz sua atenção por pontos específicos do corpo, ativando um estado natural de desaceleração do corpo e pode ser usado opcionalmente antes de iniciar sua prática de MT.
+          A Técnica ACI é um processo guiado por audio pelo Prof. Renoe Valério que conduz sua atenção por pontos específicos do corpo, ativando um estado natural de desaceleração do corpo e pode ser usado opcionalmente antes de iniciar sua prática de MT.
           <br /><br />
           O resultado é uma <span className="font-bold">sensação real, perceptível e progressiva de relaxamento</span>, que pode lhe auxiliar a entrar na sua pratica de MT menos acelerado.
           <br /><br />
